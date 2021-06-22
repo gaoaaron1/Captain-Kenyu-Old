@@ -1,0 +1,61 @@
+
+Mario_and_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+big_mario
+  rotate: false
+  xy: 1, 29
+  size: 336, 32
+  orig: 336, 32
+  offset: 0, 0
+  index: -1
+little_mario
+  rotate: false
+  xy: 1, 11
+  size: 224, 16
+  orig: 224, 16
+  offset: 0, 0
+  index: -1
+kenyu
+  rotate: false
+  xy: 29, 97
+  size: 276, 272
+  orig: 276, 272
+  offset: 0, 0
+  index: -1
+panda
+  rotate: false
+  xy: 1, 135
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+turtle
+  rotate: false
+  xy: 339, 37
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+goomba
+  rotate: false
+  xy: 227, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 1, 1
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+fragment
+  rotate: false
+  xy: 437, 22
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
